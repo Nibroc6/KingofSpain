@@ -1659,9 +1659,6 @@
             </Chord>
           <Chord>
             <durationType>eighth</durationType>
-            <Lyrics>
-              <text>ba</text>
-              </Lyrics>
             <Note>
               <pitch>59</pitch>
               <tpc>19</tpc>
@@ -1670,9 +1667,6 @@
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
-            <Lyrics>
-              <text>da</text>
-              </Lyrics>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
