@@ -1463,8 +1463,8 @@
             <dots>1</dots>
             <durationType>eighth</durationType>
             <Lyrics>
-              <syllabic>end</syllabic>
-              <text>cess</text>
+              <syllabic>middle</syllabic>
+              <text>prin</text>
               </Lyrics>
             <Note>
               <pitch>63</pitch>
@@ -1475,6 +1475,10 @@
             <BeamMode>mid</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <syllabic>end</syllabic>
+              <text>ces</text>
+              </Lyrics>
             <Note>
               <pitch>59</pitch>
               <tpc>19</tpc>
