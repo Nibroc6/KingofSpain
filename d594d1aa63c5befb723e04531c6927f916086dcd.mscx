@@ -1462,10 +1462,6 @@
             <BeamMode>begin</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
-            <Lyrics>
-              <syllabic>middle</syllabic>
-              <text>prin</text>
-              </Lyrics>
             <Note>
               <pitch>63</pitch>
               <tpc>23</tpc>
@@ -1475,10 +1471,6 @@
             <BeamMode>mid</BeamMode>
             <dots>1</dots>
             <durationType>eighth</durationType>
-            <Lyrics>
-              <syllabic>end</syllabic>
-              <text>ces</text>
-              </Lyrics>
             <Note>
               <pitch>59</pitch>
               <tpc>19</tpc>
@@ -1666,16 +1658,21 @@
               </Note>
             </Chord>
           <Chord>
-            <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <text>ba</text>
+              </Lyrics>
             <Note>
-              <pitch>56</pitch>
-              <tpc>22</tpc>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
               </Note>
             </Chord>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
+            <Lyrics>
+              <text>da</text>
+              </Lyrics>
             <Note>
               <pitch>54</pitch>
               <tpc>20</tpc>
